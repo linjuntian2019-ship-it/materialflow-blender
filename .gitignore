@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+local_config.json
+*.pt
+*.blend
+*.blend1
+cache/
+generated/
+dist/
